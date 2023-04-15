@@ -1,0 +1,15 @@
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\bin\Debug\net7.0\Match Game.exe
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\bin\Debug\net7.0\Match Game.deps.json
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\bin\Debug\net7.0\Match Game.runtimeconfig.json
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\bin\Debug\net7.0\Match Game.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\bin\Debug\net7.0\Match Game.pdb
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.csproj.AssemblyReference.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.AssemblyInfoInputs.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.AssemblyInfo.cs
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\refint\Match Game.dll
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.pdb
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\Match Game.genruntimeconfig.cache
+C:\Users\FURKAN\OneDrive\Masaüstü\Match Game\obj\Debug\net7.0\ref\Match Game.dll
